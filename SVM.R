@@ -21,9 +21,10 @@ val_sample <- read.csv(file = "../processed_data/validation_sample_data.csv")
 metric_fun <- function(pred,true){
   confusion_matrix <- confusionMatrix(pred, true)
   acc <- confusion_matrix$overall["Accuracy"]
+  pre <- confusion_matrix$byClass["Precision"]
   rec <- confusion_matrix$byClass["Recall"]
   f1 <- confusion_matrix$byClass["F1"]
-  return(c(acc,rec,f1))
+  auroc <- roc(true, attr(pred,"probabilities")[,1])
 }
 
 ## ----------------------------- select features ------------------------------
