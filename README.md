@@ -2,6 +2,8 @@
 
 ## Description
 
+![2024-05-13 163511](https://github.com/longfei8533/Predicting-Response-to-PD-1-Inhibitor/assets/37660840/a5239f49-031a-4c82-9513-12f8786464b4)
+
 
 * This repository provides R code for reproducing proteomics-based analysis. The code was verified using R 4.2.
 
@@ -10,4 +12,7 @@
 ## Data Availability Statement
 The original contributions presented in the study are included in the article/Supplementary Information and Tabel. Further inquiries can be directed to the corresponding authors.
 
-#
+## Citation
+If you use the code or data from this repository in your research, please consider citing our paper as follows:
+
+Jiangang Sun, Xiaojing Li, Qian Wang, Peng Chen, Longfei Zhao Longfei, Yongshun Gao. Proteomic Profiling and Biomarker Discovery for Predicting Response to PD-1 Inhibitor Immunotherapy in Gastric Cancer Patients. Front. Pharmacol. Volume 15 - 2024. doi: 10.3389/fphar.2024.1349459
