@@ -16,4 +16,4 @@ The MS raw data generated in this study have been deposited in the ProteomeXchan
 
 If you use the code or data from this repository in your research, please consider citing our paper as follows:
 
-Sun J, Li X, Wang Q, Chen P, Zhao L and Gao Y (2024), Proteomic profiling and biomarker discovery for predicting the response to PD-1 inhibitor immunotherapy in gastric cancer patients. Front. Pharmacol. 15:1349459. doi: 10.3389/fphar.2024.1349459
+J. Sun, X. Li, Q. Wang, P. Chen, L. Zhao, Y. Gao, Proteomic profiling and biomarker discovery for predicting the response to PD-1 inhibitor immunotherapy in gastric cancer patients, Front. Pharmacol. 15 (2024). https://doi.org/10.3389/fphar.2024.1349459.
